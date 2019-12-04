@@ -1,5 +1,7 @@
 # CountdownTimer.js
 
+<img src="https://raw.githubusercontent.com/truocphan/CountdownTimer/master/CountdownTimer%202020-01-01%2000-00-00.png">
+
 ```
 <!DOCTYPE html>
 <html>
