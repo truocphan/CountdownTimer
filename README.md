@@ -19,3 +19,7 @@
 </body>
 </html>
 ```
+
+### countdown(endTime, urlRedirect)
+> - **endTime**:
+> - **urlRedirect**:
