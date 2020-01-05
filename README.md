@@ -7,7 +7,9 @@
 <html>
 <head>
 	<style type="text/css">
-		...
+	/*
+	**	Add CSS here
+	*/
 	</style>
 </head>
 <body>
@@ -21,5 +23,6 @@
 ```
 
 ### countdown(endTime, urlRedirect)
-> - **endTime**:
-> - **urlRedirect**:
+> - **endTime**: Countdown time
+>> FORMAT:
+> - **urlRedirect**: Redirect to the URL (urlRedirect) after the end of the countdown
