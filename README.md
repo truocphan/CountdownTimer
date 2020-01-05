@@ -23,7 +23,5 @@
 ```
 
 ### countdown(endTime, urlRedirect)
-> - **endTime**: Countdown time
->> FORMAT:
->>> - day/month/year
+> - **endTime**: Countdown time. endTime format: https://www.w3schools.com/js/js_date_formats.asp
 > - **urlRedirect**: Redirect to the URL (urlRedirect) after the end of the countdown
