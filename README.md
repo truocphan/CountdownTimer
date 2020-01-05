@@ -25,4 +25,5 @@
 ### countdown(endTime, urlRedirect)
 > - **endTime**: Countdown time
 >> FORMAT:
+>>> - day/month/year
 > - **urlRedirect**: Redirect to the URL (urlRedirect) after the end of the countdown
