@@ -22,7 +22,7 @@
 </html>
 ```
 
-[LIVE DEMO](https://truocphan.github.io/CountdownTimer.html)
+[LIVE DEMO](https://truocphan.github.io/)
 
 ### COUNTDOWN(endTime, urlRedirect)
 > - **endTime**: Countdown time. endTime format: https://www.w3schools.com/js/js_date_formats.asp
