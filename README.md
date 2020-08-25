@@ -14,7 +14,7 @@
 </head>
 <body>
 	<div id="countdown"></div>
-	<script src="https://cdn.jsdelivr.net/gh/truocphan/CountdownTimer@master/CountdownTimer.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/truocphan/CountdownTimer@5389c2b333484823c505d7705c911671f88f5b9b/CountdownTimer.js"></script>
 	<script type="text/javascript">
 		COUNTDOWN(endTime, urlRedirect);
 	</script>
