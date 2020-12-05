@@ -1,1 +1,37 @@
-eval(function(p,a,c,k,e,d){e=function(c){return c};if(!''.replace(/^/,String)){while(c--){d[c]=k[c]||c}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('73 116(7,74="44://99.98.46/97"){9 15=11.51("15");15.53="44://56.57.46/68?43=59&37=62";15.66="67";11.47.48(15);9 15=11.51("15");15.53="44://56.57.46/68?43=55+58&37=62";15.66="67";11.47.48(15);9 36=11.51("36");36.45="*{22: 0;29: 0;}94{101-52: #92;}#4 > 5 {25: 100%;37: 91;90-89: 87;86: 85;82: 50%;81: 50%;83: 84(-50%, -50%);}#4 > 5 > 3 {37: 93-102;114: 122;}#4 > 5 > 3 > 2:27-26 {52: 123;8-43: \'55 58\', 59, 121;8-63: 64;}.6 {52: 120;8-63: 64;}@33 32 31 30 (35-25 : 118) {#4 > 5 > 3 {22: 16 41 16 41;29: 12 41 12 41;}#4 > 5 > 3 > 2:27-26 {8-13: 80;}.6 {8-13: 104;}}@33 32 31 30 (35-25 : 115) {#4 > 5 > 3 {22: 16 65 16 65;29: 12 23 12 23;}#4 > 5 > 3 > 2:27-26 {8-13: 112;}.6 {8-13: 49;}}@33 32 31 30 (35-25 : 111) {#4 > 5 > 3 {22: 16 23 16 23;29: 12 23 12 23;}#4 > 5 > 3 > 2:27-26 {8-13: 110;}.6 {8-13: 28;}}@33 32 31 30 (35-25 : 109) {#4 > 5 > 3 {22: 16 61 16 61;29: 12 49 12 49;}#4 > 5 > 3 > 2:27-26 {8-13: 107;}.6 {8-13: 106;}}@33 32 31 30 (35-25 : 88) {#4 > 5 > 3 {22: 16 28 16 28;29: 12 28 12 28;}#4 > 5 > 3 > 2:27-26 {8-13: 103;}.6 {8-13: 80;}}";11.47.48(36);11.38("4").45=\'<5><3><2>42</2><20><2 18="6">14</2></3><3><2>42</2><20><2 18="6">17</2></3><3><2>42</2><20><2 18="6">19</2></3><3><2>42</2><20><2 18="6">21</2></3></5>\';11.38("4").79("105","71 75");11.38("4").79("108","71 75");9 77=40 39(7).113().124(" 119")[0];9 34=40 39();34=34.76()-34.72();9 7=(40 39(7)).76()-(40 39(7)).72();7=(7-34)/69;9 70=126(73(){117(7<=0){125(70);95.53=74}9 14=54(7/(1*24*60*60));(14<10)?(14="0"+14):14;9 17=54((7-(14*24*60*60))/(1*60*60));(17<10)?(17="0"+17):17;9 19=54((7-(14*24*60*60)-(17*60*60))/(1*60));(19<10)?(19="0"+19):19;9 21=7%60;(21<10)?(21="0"+21):21;7-=1;11.38("4").45=`<5><78 18="6"36="22-96:28;">${77}</78><3><2>${14}</2><20><2 18="6">14</2></3><3><2>${17}</2><20><2 18="6">17</2></3><3><2>${19}</2><20><2 18="6">19</2></3><3><2>${21}</2><20><2 18="6">21</2></3></5>`},69)}',10,127,'||span|li|countdown|ul|sub|endTime|font|var||document|32px|size|days|link|0px|hours|class|minutes|br|seconds|margin|8px||width|child|first|16px|padding|and|screen|only|media|nowTime|min|style|display|getElementById|Date|new|4px|00|family|https|innerHTML|com|head|appendChild|14px||createElement|color|href|parseInt|Vast|fonts|googleapis|Shadow|Bungee||12px|swap|weight|bold|6px|rel|stylesheet|css|1000|timer|return|getMilliseconds|function|urlRedirect|false|getTime|DateTime|p|setAttribute|28px|top|left|transform|translate|absolute|position|center|1200px|align|text|table|1e2125|inline|body|location|bottom|292706121240740|facebook|www||background|block|110px|11px|oncontextmenu|20px|90px|onmousedown|992px|76px|768px|44px|toString|float|480px|COUNTDOWN|if|320px|GMT|white|cursive|none|yellow|split|clearInterval|setInterval'.split('|'),0,{}))
+function COUNTDOWN(endTime, urlRedirect = "https://www.facebook.com/292706121240740") {
+    var link = document.createElement("link");
+    link.href = "https://fonts.googleapis.com/css?family=Bungee&display=swap";
+    link.rel = "stylesheet";
+    document.head.appendChild(link);
+    var link = document.createElement("link");
+    link.href = "https://fonts.googleapis.com/css?family=Vast+Shadow&display=swap";
+    link.rel = "stylesheet";
+    document.head.appendChild(link);
+    var style = document.createElement("style");
+    style.innerHTML = "*{margin: 0;padding: 0;}body{background-color: #1e2125;}#countdown > ul {width: 100%;display: table;text-align: center;position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%);}#countdown > ul > li {display: inline-block;float: none;}#countdown > ul > li > span:first-child {color: yellow;font-family: 'Vast Shadow', Bungee, cursive;font-weight: bold;}.sub {color: white;font-weight: bold;}@media only screen and (min-width : 320px) {#countdown > ul > li {margin: 0px 4px 0px 4px;padding: 32px 4px 32px 4px;}#countdown > ul > li > span:first-child {font-size: 28px;}.sub {font-size: 11px;}}@media only screen and (min-width : 480px) {#countdown > ul > li {margin: 0px 6px 0px 6px;padding: 32px 8px 32px 8px;}#countdown > ul > li > span:first-child {font-size: 44px;}.sub {font-size: 14px;}}@media only screen and (min-width : 768px) {#countdown > ul > li {margin: 0px 8px 0px 8px;padding: 32px 8px 32px 8px;}#countdown > ul > li > span:first-child {font-size: 76px;}.sub {font-size: 16px;}}@media only screen and (min-width : 992px) {#countdown > ul > li {margin: 0px 12px 0px 12px;padding: 32px 14px 32px 14px;}#countdown > ul > li > span:first-child {font-size: 90px;}.sub {font-size: 20px;}}@media only screen and (min-width : 1200px) {#countdown > ul > li {margin: 0px 16px 0px 16px;padding: 32px 16px 32px 16px;}#countdown > ul > li > span:first-child {font-size: 110px;}.sub {font-size: 28px;}}";
+    document.head.appendChild(style);
+    document.getElementById("countdown").innerHTML = '<ul><li><span>00</span><br><span class="sub">days</span></li><li><span>00</span><br><span class="sub">hours</span></li><li><span>00</span><br><span class="sub">minutes</span></li><li><span>00</span><br><span class="sub">seconds</span></li></ul>';
+    document.getElementById("countdown").setAttribute("oncontextmenu", "return false");
+    document.getElementById("countdown").setAttribute("onmousedown", "return false");
+    var DateTime = new Date(endTime).toString().split(" GMT")[0];
+    var nowTime = new Date();
+    nowTime = nowTime.getTime() - nowTime.getMilliseconds();
+    var endTime = (new Date(endTime)).getTime() - (new Date(endTime)).getMilliseconds();
+    endTime = (endTime - nowTime) / 1000;
+    var timer = setInterval(function () {
+        if (endTime <= 0) {
+            clearInterval(timer);
+            location.href = urlRedirect
+        }
+        var days = parseInt(endTime / (1 * 24 * 60 * 60));
+        (days < 10) ? (days = "0" + days) : days;
+        var hours = parseInt((endTime - (days * 24 * 60 * 60)) / (1 * 60 * 60));
+        (hours < 10) ? (hours = "0" + hours) : hours;
+        var minutes = parseInt((endTime - (days * 24 * 60 * 60) - (hours * 60 * 60)) / (1 * 60));
+        (minutes < 10) ? (minutes = "0" + minutes) : minutes;
+        var seconds = endTime % 60;
+        (seconds < 10) ? (seconds = "0" + seconds) : seconds;
+        endTime -= 1;
+        document.getElementById("countdown").innerHTML = `<ul><li><span>${days}</span><br><span class="sub">days</span></li><li><span>${hours}</span><br><span class="sub">hours</span></li><li><span>${minutes}</span><br><span class="sub">minutes</span></li><li><span>${seconds}</span><br><span class="sub">seconds</span></li></ul>`
+    }, 1000)
+}
